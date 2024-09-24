@@ -1,4 +1,4 @@
-# Coffee Shop - Decorator and Facade Design Patterns
+# Coffee Shop - Decorator and Facade Design Pattern
 
 This project illustrates the use of the **Decorator** and **Facade** design patterns in a coffee ordering system. Users can select different coffee types and customize their orders with various extras.
 
